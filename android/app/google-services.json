@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "998769091839",
+    "project_id": "moi-push-notifications",
+    "storage_bucket": "moi-push-notifications.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998769091839:android:06b14045e55bc79a23d8ca",
+        "android_client_info": {
+          "package_name": "com.moi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "998769091839-gtrhlmgc87ga1sinipmilc7a0nqh3nto.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCptelD_xeX_9S6kKqoOVrFzKCMXE77cBU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "998769091839-gtrhlmgc87ga1sinipmilc7a0nqh3nto.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
